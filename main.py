@@ -1,4 +1,4 @@
-"""Entry for the make.fun bounty "Sum up 21 November's world news in one image".
+"""Entry for the make.fun bounty "Sum up 22 November's world news in one image".
 
 The grader runs this in a fresh container: a read-only /bot holding this
 repository at the submitted commit, a writable /output, no network, 60 seconds.
